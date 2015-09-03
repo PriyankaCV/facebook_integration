@@ -23,6 +23,7 @@ import java.util.Arrays;
 public class MainActivity extends Activity {
     private LoginButton btn_fb;
     private Button btn_share;
+    private Button btn_twitter;
 
     /**
      * face book details
